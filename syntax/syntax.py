@@ -1,0 +1,15 @@
+print("Hello, World!");
+
+if 5 > 2:
+    print("Five is greater than two!");
+
+x = 5 
+y = "Hello, World!" 
+print(x, y)
+
+#This is comment
+"""
+This is a comment
+written in
+more than just one line
+"""

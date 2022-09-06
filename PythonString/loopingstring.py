@@ -1,2 +1,2 @@
-for x in "banana":
+for x in "banana": #looping string 
     print(x)

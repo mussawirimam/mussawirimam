@@ -3,7 +3,7 @@
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
 
 
-LIFE IS TOO SMALL TO NOT LEARN EVERYTHING IN TECHNOLOGY
+Life's too short to skip out on learning tech.
 -------------------------------------------------------
 You have to read your Mantra's that you live by everyday to create a ground to live by. 
 <p>Life by personal philosophies is living, otherwise it's auto-pilot on steroids.</p>

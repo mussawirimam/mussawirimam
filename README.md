@@ -6,7 +6,7 @@
 LIFE IS TOO SMALL TO NOT LEARN EVERYTHING IN TECHNOLOGY
 -------------------------------------------------------
 You have to read your Mantra's that you live by everyday to create a ground to live by. 
-<p>Life personal philosophy is living on auto-pilot on steroids.</p>
+<p>Life by personal philosophies is living, otherwise it's auto-pilot on steroids.</p>
 
 Welcome to the Matrix!
 <p>

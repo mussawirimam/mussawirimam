@@ -1,6 +1,6 @@
 ## Hi there 👋
 🐍 Python? when you can be a Cyber-Dino 🦖
-<p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
+<p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
 
 
 LIFE IS TOO SMALL TO NOT LEARN EVERYTHING IN TECHNOLOGY
@@ -10,7 +10,7 @@ You have to read your Mantra's that you live by everyday to create a ground to l
 
 Welcome to the Matrix!
 <p>
-🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
+🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
 <!--
 **mussawirimam/mussawirimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

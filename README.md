@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome Fellow Technologists 👋
 🐍 Python? when you can be a Cyber-Dino 🦖
 <p>🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖</p>
 
